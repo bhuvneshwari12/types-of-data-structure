@@ -4,6 +4,13 @@ Types of data structure :-
 3- stacks 
 
 
+4-binary tree
+5-lists
+
 Thankyou..
 
+
+done my changes
+
 final copy
+
